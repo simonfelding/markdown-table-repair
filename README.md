@@ -20,6 +20,6 @@ The script detects and removes the errors, outputting a markdown table suitable 
 | #Table 1. Characteristics of the sample |     |      |            |            |
 |-----------------------------------------|-----|------|------------|------------|
 | Characteristic                          | n   | %    | weighted n | weighted % |
-| Respondents                             | 123 | n/a  | 1.234.567  | n/a        |
+| Respondents                             | 123 | n/a  | 1.234.567  |            |
 ```
 
