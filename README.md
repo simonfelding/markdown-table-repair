@@ -23,3 +23,18 @@ The script detects and removes the errors, outputting a markdown table suitable 
 | Respondents                             | 123 | n/a  | 1.234.567  |            |
 ```
 
+It will also transform this
+```
+| table 1 | 11 | 2222 | 3333333 |
+|-|-|-|-|
+| test | hi | to | you |
+```
+
+to this
+```
+| table 1 | 11 | 2222 | 3333333 |
+|---------|----|------|---------|
+| test    | hi | to   | you     |
+```
+
+not sure if it's needed.
