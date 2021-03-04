@@ -10,6 +10,7 @@ This is a markdown table that is fine:
 | Respondents                             | 123 | n/a  | 1.234.567  | n/a        |
 
 `
+
 this one is broken (extra whitespace in Characteristics cell):
 
 
