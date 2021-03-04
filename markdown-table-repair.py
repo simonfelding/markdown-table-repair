@@ -68,9 +68,9 @@ def fix_table(table):
     
     # finally, fix the |---| row. important if row size was changed.
     cellno = 0
-    for cell in table[1]:
+    for cells in table[0]:
         newcell = ""
-        for char in cell:
+        for char in cells:
             newcell = newcell+"-"
         table[1][cellno] = newcell
         cellno += 1
