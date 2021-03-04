@@ -12,7 +12,7 @@ this one is broken (extra whitespace in Characteristics cell):
 
 | #Table 1. Characteristics of the sample |     |      |            |            |
 |-----------------------------------------|-----|------|------------|------------|
-| Characteristic                           | n   | %    | weighted n | weighted % |
+| Characteristic                              | n   | %    | weighted n | weighted % |
 | Respondents                             | 123 | n/a  | 1.234.567  | n/a        |
 
 The script detects and removes the whitespace, outputting a markdown table suitable for stuff like https://github.com/Zettlr/Zettlr
