@@ -3,6 +3,8 @@ Markdown tables are pretty fragile. This script can add the formalities to make 
 
 Top row dictates size of table.
 
+
+## example
 This is a markdown table that is fine:
 
 ```
